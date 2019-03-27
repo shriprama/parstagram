@@ -44,7 +44,7 @@ The following **required** functionality is completed:
 
 #### BONUS
 
-- [x ] User can pull to refresh. (1pt)
+- [x] User can pull to refresh. (1pt)
 - [ ] User can load past posts infinitely. (2pts)
 
 ## Video Walkthrough
